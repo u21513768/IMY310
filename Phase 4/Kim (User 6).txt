@@ -1,0 +1,71 @@
+Kim:
+Difficulty 2.5/5
+
+Noisy Testing environment, natural but unprofessional
+
+User was unsure of a lot of what they were doing, did not feel familiar with a lot of the app, acted unprofessional,
+User felt tested as opposed to a user testing the prototype.
+
+19 minutes
+
+Task 1:
+Difficulty signing up
+Went to search
+Difficulty exiting search page.
+unfamiliar with Figma.
+5/5 - too difficult
+7 minutes
+I'm providing too much info
+Talking too much.
+Doesn't say "Add to watchlist"
+
+Task 2:
+using home to "search"
+Went to search,
+figured it out
+1 minute
+2/5
+
+Task 3:
+Found True detectives easily
+Watched clicked easily
+1/5
+30 seconds
+
+Task 4:
+Found Nope
+Saved - minor tech difficulties, not allowing click
+1/5
+2:30 minutes - confused on prompt
+
+Task 5:
+Confused on prompt
+1 minute
+1/5
+
+Task 6:
+Navigated to settings.
+2/5 - Needed questions to get to answer
+1 minute
+
+Task 7:
+Starts at settings, Heading "My profile is misleading"
+Went to home
+Feels tested as opposed to testing the app.
+Trying to update settings
+Goes to profile
+In edit profile
+
+4 minutes
+3/5
+
+Task 8:
+Goes to home
+Seems confused as to where to go
+Voice sounds unsure
+Goes to correct place
+Unsure of option
+
+
+2 minutes
+3/5

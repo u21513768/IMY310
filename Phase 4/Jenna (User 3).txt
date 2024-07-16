@@ -1,0 +1,72 @@
+Jenna:
+Familiar with design
+Design  made sense to her,
+ideas aligned with our design decisions
+1/5 difficulty
+9 minutes total
+
+Task 1:
+Sign up easily
+Goes to search
+Tries to use TV show filter - Our issue
+Tries to search - our issue
+Goes to series Tab
+2/5
+3 minutes
+
+Task 2:
+Goes to search
+1/5
+Heuristic approach
+15 seconds
+
+Task 3:
+Goes to watchlist - We didn't link it, our bad
+True detective not in watchlist
+2/5 
+2 minutes 30 seconds
+
+
+Task 4:
+Used Genre tabs
+Heuristic approach
+15 seconds
+1/5
+
+Goes to watchlist, didn't find it
+Found in watchlist
+Heuristic approach
+1/5
+1 minute
+
+Task 5:
+Heuristic approach
+10 seconds
+1/5
+
+Task 6:
+Tries to edit profile
+Goes to settings
+Edits settings page
+
+1/5
+1 minute
+
+Task 7:
+Navigates to profile,
+Heuristic approach 
+1/5
+5 seconds
+
+Update Password:
+Goes to settings
+Updates password
+Changed
+30 seconds
+1/5
+
+Task 8:
+Goes to settings
+Heuristic approach
+15 seconds
+1/5

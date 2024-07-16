@@ -1,0 +1,66 @@
+Neo:
+User wasn't sure at first,
+Good discovery, wasn't afraid to push buttons, ask questions, try to figure things out based on previous knowledge
+(recognition over recall)
+Our application seemed to make sense once he tested out and explored different features, coupled with a perceived experience with these types of applications.
+
+8 minutes 20 seconds
+
+1/5
+
+Task 1:
+Discovering and navigating app, investigating features
+Trying to search for series in the search page, our prompt may be misleading
+Looking through search/discover
+Back at home page, series tab seems unnoticeable, eventually discovered.
+
+3 minutes
+3/5
+
+Task 2:
+Used understanding from discovery
+1/5
+1 minute
+
+Task 3:
+Using recall of how to find series
+Does not acknowledge button to mark as watched, may be lack of information or cues from application that leads to this
+
+Using discovery
+
+3/5
+3 minutes
+
+Task 4:
+Heuristics 
+1/5
+15 seconds
+
+Went to home
+30 seconds
+2/5
+
+Task 5:
+Heuristics
+
+5 seconds
+1/5
+
+Task 6:
+Heuristics
+Recognition over recall
+
+5 seconds
+1/5
+
+Task 7
+Heuristics
+
+15 seconds
+1/5
+
+Task 8
+Heuristics
+
+10 seconds
+1/5

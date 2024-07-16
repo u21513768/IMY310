@@ -1,0 +1,1 @@
+Users are failing to see Movies and series categories at bottom of screen, focus is at top of screen.
